@@ -1,9 +1,10 @@
-Olá! Me chamo Débora Fanquêta ☺️
+ 🌎Olá, meu nome é Débora Fanquêta ☺️. Sou Desenvolvedora e estudante de  UI.
 
-- 🔭 Em transição de carreira
-- 🌱  FullStack Developer
-- 😄 Pronouns: ela/dela
+🦄Habilidades: HTML, CSS, JavaScript.
 
+💼Ferramentas: VSCode, Trello, Git e GitHub.
+
+💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
 
 
